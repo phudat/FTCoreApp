@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTCoreApp", "FTCoreApp\FTCoreApp.csproj", "{653C3C60-9800-4FB7-84B2-73756658492F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653C3C60-9800-4FB7-84B2-73756658492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653C3C60-9800-4FB7-84B2-73756658492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653C3C60-9800-4FB7-84B2-73756658492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653C3C60-9800-4FB7-84B2-73756658492F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A27E1B-5DDE-46AD-B9E1-D98F26BD2B59}
+	EndGlobalSection
+EndGlobal
