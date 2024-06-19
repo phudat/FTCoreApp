@@ -1,0 +1,2 @@
+# FTCoreApp
+Core App
